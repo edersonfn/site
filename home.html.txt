@@ -1,5 +1,5 @@
 <html>
 	<body>
-		<h2>Meu cursos</h2>
+		<h3>Meu cursos</h3>
 	</body>
 </html>
